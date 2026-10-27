@@ -1,0 +1,3 @@
+[submodule "hardware/Common"]
+	path = hardware/Common
+	url = git@github.com:aauracing/altium-libs.git
